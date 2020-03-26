@@ -37,15 +37,15 @@ namespace conditionals
 
             if (Age <= 50 && BloodPressure <= 130 && Temperature <= 37)
             {
-                Console.WriteLine("You are Healthy");
+                Console.WriteLine(LastName + " " + FirstName + " " + MiddleName + " " + "You are Healthy");
             }
             else if(Age >= 50 && BloodPressure >= 130 && Temperature >= 37)
             {
-                Console.WriteLine("You will need to take some medication to keep you well");
+                Console.WriteLine(LastName + " " + FirstName + " " + MiddleName + " " + "You will need to take some medication to keep you well");
             } 
             else
             {
-                Console.WriteLine("Your Health is in a Critical state, We will have to admit you immediately");
+                Console.WriteLine(LastName +" " + FirstName +" " + MiddleName +" " + "Your Health is in a Critical state, We will have to admit you immediately");
             }
         }
         
