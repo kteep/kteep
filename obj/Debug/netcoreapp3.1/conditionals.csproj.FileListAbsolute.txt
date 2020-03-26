@@ -11,3 +11,14 @@ C:\Users\TAIWO\conditionals\obj\Debug\netcoreapp3.1\conditionals.AssemblyInfo.cs
 C:\Users\TAIWO\conditionals\obj\Debug\netcoreapp3.1\conditionals.dll
 C:\Users\TAIWO\conditionals\obj\Debug\netcoreapp3.1\conditionals.pdb
 C:\Users\TAIWO\conditionals\obj\Debug\netcoreapp3.1\conditionals.genruntimeconfig.cache
+D:\first web page\opeyemi\kteep\bin\Debug\netcoreapp3.1\conditionals.exe
+D:\first web page\opeyemi\kteep\bin\Debug\netcoreapp3.1\conditionals.deps.json
+D:\first web page\opeyemi\kteep\bin\Debug\netcoreapp3.1\conditionals.runtimeconfig.json
+D:\first web page\opeyemi\kteep\bin\Debug\netcoreapp3.1\conditionals.runtimeconfig.dev.json
+D:\first web page\opeyemi\kteep\bin\Debug\netcoreapp3.1\conditionals.dll
+D:\first web page\opeyemi\kteep\bin\Debug\netcoreapp3.1\conditionals.pdb
+D:\first web page\opeyemi\kteep\obj\Debug\netcoreapp3.1\conditionals.csprojAssemblyReference.cache
+D:\first web page\opeyemi\kteep\obj\Debug\netcoreapp3.1\conditionals.AssemblyInfoInputs.cache
+D:\first web page\opeyemi\kteep\obj\Debug\netcoreapp3.1\conditionals.AssemblyInfo.cs
+D:\first web page\opeyemi\kteep\obj\Debug\netcoreapp3.1\conditionals.dll
+D:\first web page\opeyemi\kteep\obj\Debug\netcoreapp3.1\conditionals.pdb
